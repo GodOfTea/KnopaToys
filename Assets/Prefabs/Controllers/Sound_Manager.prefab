@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3016194934433598891
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3016194934433598890}
+  - component: {fileID: 3016194934433598893}
+  m_Layer: 0
+  m_Name: Sound_Manager
+  m_TagString: Sound_Manager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3016194934433598890
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3016194934433598891}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.64641815, y: 1.0872606, z: -9.738281}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3016194934433598893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3016194934433598891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 805e914a41c5f27418baee8480ad3f7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sounds:
+  - Name: Click
+    clip: {fileID: 0}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: Error
+    clip: {fileID: 8300000, guid: 8b8a3a4d18388c547b311c634108760c, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: Success
+    clip: {fileID: 8300000, guid: ea1ba0607520c1e40b26948836743830, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: Destroy
+    clip: {fileID: 8300000, guid: b9b698923b8466247b9b32e28c08a0c5, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: EdibleGame
+    clip: {fileID: 8300000, guid: 5e13433c7fa1a104284b46f07a96072a, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: DoctorStaff
+    clip: {fileID: 8300000, guid: 0bc282dbfd135e145b8e2c36acde5d0b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: MasterStaff
+    clip: {fileID: 8300000, guid: 7abf5efd0c6c1da49a0435f173848ac0, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: HairstyleStaff
+    clip: {fileID: 8300000, guid: 177009c2f87f0e7469ed5141c18f0834, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: CookStaff
+    clip: {fileID: 8300000, guid: c6da85495c9bf4742af3c639a5373ab2, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: Car
+    clip: {fileID: 8300000, guid: e1b544c2c5ff659408efb453f3465bce, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: VoiceGame
+    clip: {fileID: 8300000, guid: b6b757d52bd3ead44a29215a55edee87, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: Yellow
+    clip: {fileID: 8300000, guid: 2bdb1a75154002b4f8a5e394d8af6421, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: Red
+    clip: {fileID: 8300000, guid: 1de40d81677d3514dae004202b9189c1, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: Green
+    clip: {fileID: 8300000, guid: 4e3a88c8776ba6c4c96a079da58702fb, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: Orange
+    clip: {fileID: 8300000, guid: d188c01af85c21d43902d232ba49a84c, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: Blue
+    clip: {fileID: 8300000, guid: 304e079e29ad94340b377c71f6fbc5de, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: Purple
+    clip: {fileID: 8300000, guid: a8437b3c3a546f74997e4046f03dda1c, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: Win
+    clip: {fileID: 8300000, guid: 73b943c0ab1daa244aba1348140b0537, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: DinosGame
+    clip: {fileID: 8300000, guid: 3e144a3c997ff3c4cb5ef748580d5998, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: StartApp
+    clip: {fileID: 8300000, guid: 9d6147ec65792e548b370e8f2bbdf7a9, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: FruVegGame
+    clip: {fileID: 8300000, guid: 09f7a5a3278b1fa408e6becb246c1edd, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: BubblesGame
+    clip: {fileID: 8300000, guid: dbea8c142ad219f4395cd19a9b28213d, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: PuzzleGame
+    clip: {fileID: 8300000, guid: f615878a9076cf349b374f6ef85b92f3, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: FigGame
+    clip: {fileID: 8300000, guid: c39715fb2e11cc14492ea79f8ecccf6b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: ColFigGame
+    clip: {fileID: 8300000, guid: 899e5bc250183ff4e80d6cd15b77ab09, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - Name: FormFigGame
+    clip: {fileID: 8300000, guid: 8c6a377e98ee23d45bc340b78cd4827d, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}

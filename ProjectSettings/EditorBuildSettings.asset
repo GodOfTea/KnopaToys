@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 18ec4f4fa8735e04682063703b4b4de1
+  - enabled: 1
+    path: Assets/Scenes/Games_Menu.unity
+    guid: 4f150dc942eb4af48a72469126fb8895
+  - enabled: 1
+    path: Assets/Scenes/Lvl_Menu.unity
+    guid: 7ed241844e664614780e90ca23894260
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 4db085a0efb962648932dde53ceaec77
+  - enabled: 1
+    path: Assets/Scenes/Games/Col_Pic_Figurines.unity
+    guid: 2fbe6c4f09c8c2c4cad2329e5733271c
+  - enabled: 1
+    path: Assets/Scenes/Games/Figurines.unity
+    guid: e68aa856da7e746419e9ab46db4600af
+  - enabled: 1
+    path: Assets/Scenes/Games/Figurines_Col.unity
+    guid: b9d78174b04bda64dad0069722646b00
+  - enabled: 1
+    path: Assets/Scenes/Games/Inedible_Edible.unity
+    guid: b7228e9127ed335459478ee45da01c61
+  - enabled: 1
+    path: Assets/Scenes/Games/Animals_Voice.unity
+    guid: dad7cb333dc75ff4fa4eed3587b908cc
+  - enabled: 1
+    path: Assets/Scenes/Games/Dinosaurs.unity
+    guid: e8b6a35fc05398a458a32b291c775584
+  - enabled: 1
+    path: Assets/Scenes/Games/Puzzle.unity
+    guid: f50be12d4424fa64f9dc7d5c9f445ea1
+  - enabled: 1
+    path: Assets/Scenes/Games/Auto_Pazzle.unity
+    guid: afb669dbb720b9b49a924deee8e13865
+  - enabled: 1
+    path: Assets/Scenes/Games/Professions.unity
+    guid: 22898cd331b027941a2696bfb953487c
+  - enabled: 1
+    path: Assets/Scenes/Games/Fru_Veg.unity
+    guid: 902503f521664b84f96d1f517e19f74f
+  - enabled: 1
+    path: Assets/Scenes/Games/Bubbles.unity
+    guid: d1b68390320aff145ba0cc88ef5860f5
+  - enabled: 1
+    path: Assets/Scenes/Puzzle_Menu.unity
+    guid: abf548e873010db4385da6e4c279f417
+  m_configObjects: {}

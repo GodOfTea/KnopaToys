@@ -1,0 +1,667 @@
+fileFormatVersion: 2
+guid: 1da342340c749bc40b66eb4634333ff0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3186609543615930947
+    second: atlas_Inedible_0
+  - first:
+      213: -45533908458708286
+    second: atlas_Inedible_1
+  - first:
+      213: 6246282834142204621
+    second: atlas_Inedible_2
+  - first:
+      213: -8447047051055051918
+    second: atlas_Inedible_3
+  - first:
+      213: 7930991224753142556
+    second: atlas_Inedible_4
+  - first:
+      213: -6231901201632280805
+    second: atlas_Inedible_5
+  - first:
+      213: -6556738321395175480
+    second: atlas_Inedible_6
+  - first:
+      213: 10910399006993119
+    second: atlas_Inedible_7
+  - first:
+      213: -1971446884480534045
+    second: atlas_Inedible_8
+  - first:
+      213: 2229893636639314584
+    second: atlas_Inedible_9
+  - first:
+      213: 1092965211252600499
+    second: atlas_Inedible_10
+  - first:
+      213: 6611798352590896046
+    second: atlas_Inedible_11
+  - first:
+      213: 3750517793658407364
+    second: atlas_Inedible_12
+  - first:
+      213: 1385097361574107644
+    second: atlas_Inedible_13
+  - first:
+      213: -7435025461326154047
+    second: atlas_Inedible_14
+  - first:
+      213: 8250289906763084135
+    second: atlas_Inedible_15
+  - first:
+      213: 6854364815966798103
+    second: atlas_Inedible_16
+  - first:
+      213: -4499605508596398152
+    second: atlas_Inedible_17
+  - first:
+      213: 5112650627104828063
+    second: atlas_Inedible_18
+  - first:
+      213: -4288901048432138922
+    second: atlas_Inedible_19
+  - first:
+      213: -8469848007317249163
+    second: atlas_Inedible_20
+  - first:
+      213: -6186193885689207692
+    second: atlas_Inedible_21
+  - first:
+      213: -3834175659725253542
+    second: atlas_Inedible_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas_Inedible_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2710
+        width: 373
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe5223e0f187e74980969b7654b703a
+      internalID: 3186609543615930947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_1
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2710
+        width: 322
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd7dd2dc3305f544a59db512f085e6c
+      internalID: -45533908458708286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_2
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 2709
+        width: 799
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0bc73f62858db49809cdd2a267a4f6
+      internalID: 6246282834142204621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_3
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 2707
+        width: 595
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b863f3329bb2c3b43b823deb908ac8ac
+      internalID: -8447047051055051918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1996
+        width: 330
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792b6a34568ed39418f58d78a008fb4b
+      internalID: 7930991224753142556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_5
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2000
+        width: 301
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c25d77911738f4dbbdbe0a8d627b3b
+      internalID: -6231901201632280805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_6
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2000
+        width: 558
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f04f82d4f1a5204696e65670e5ba938
+      internalID: -6556738321395175480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_7
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2197
+        width: 674
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73aeab0616b99749a1083758c878e10
+      internalID: 10910399006993119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1311
+        width: 168
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c0fdabecc67444091a5615c93ceae5
+      internalID: -1971446884480534045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_9
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1311
+        width: 235
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa37490b51b0314c9c42a7eaef1b35b
+      internalID: 2229893636639314584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_10
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1314
+        width: 515
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48be7ce8b43f70439901db3f3334874
+      internalID: 1092965211252600499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_11
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1490
+        width: 609
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12da07067e4f42a4ab85f105ce58f158
+      internalID: 6611798352590896046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 676
+        width: 588
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5bb3396353d9c4182769c008e36daa
+      internalID: 3750517793658407364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_13
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 676
+        width: 215
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a25badcc7623e4b9cd8cf84911abe4
+      internalID: 1385097361574107644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_14
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 672
+        width: 630
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1abd619f10ee240b50311a49ed2cf1
+      internalID: -7435025461326154047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_15
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 799
+        width: 515
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b10d3aaa9eb3464e8e117b9c796fa9f
+      internalID: 8250289906763084135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 676
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ed9a7e07af4aa40b820d1066d418b1
+      internalID: 6854364815966798103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 40
+        width: 343
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1687b069ec404ed468b234f6bbacfe29
+      internalID: -4499605508596398152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 38
+        width: 139
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77112267966a8f34f943cc178c1f70a2
+      internalID: 5112650627104828063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_19
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 37
+        width: 262
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbe8e1441b90cc4987be4a3a0308ffb
+      internalID: -4288901048432138922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_20
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 37
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddf37533ced64d4f8b276f477013590
+      internalID: -8469848007317249163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_21
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 40
+        width: 601
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0147b8ef018ad4693c90f75ad6a7ce
+      internalID: -6186193885689207692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Inedible_22
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 37
+        width: 554
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ff396b605936b4ab0851d07ae988e3
+      internalID: -3834175659725253542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
